@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<container>
+  <rootfiles>
+    <rootfile full-path="score_style.mss"/>
+    <rootfile full-path="Torn_Sky.mscx"/>
+    <rootfile full-path="Excerpts/0_Other/0_Other.mss"/>
+    <rootfile full-path="Excerpts/0_Other/0_Other.mscx"/>
+    <rootfile full-path="Thumbnails/thumbnail.png"/>
+    <rootfile full-path="audiosettings.json"/>
+    <rootfile full-path="viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_Other/viewsettings.json"/>
+    <rootfile full-path="Excerpts/0_Other/audiosettings.json"/>
+    </rootfiles>
+  </container>

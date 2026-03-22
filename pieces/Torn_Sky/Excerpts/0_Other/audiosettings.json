@@ -1,0 +1,68 @@
+{
+    "tracks": [
+        {
+            "instrumentId": "violas",
+            "partId": "23",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "violoncello",
+            "partId": "33",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "piano",
+            "partId": "27",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "contrabasses",
+            "partId": "25",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "violin",
+            "partId": "32",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "violins",
+            "partId": "22",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "violoncellos",
+            "partId": "24",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        },
+        {
+            "instrumentId": "violins",
+            "partId": "21",
+            "soloMuteState": {
+                "mute": true,
+                "solo": false
+            }
+        }
+    ]
+}
